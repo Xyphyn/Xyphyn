@@ -11,6 +11,6 @@ My favorite projects that I've made are [**Neptune**](https://github.com/Xyphyn/
 
 [![Xylight's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xyphyn&show_icons=true&theme=dracula&bg_color=1b2430&title_color=c308ff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xyphyn&show_icons=true&theme=dracula&bg_color=1b2430&title_color=c308ffe&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xyphyn&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
