@@ -7,7 +7,7 @@
 
 Hey! I'm **Xylight**, but you can also call me **James**. I enjoy creating things that other people can enjoy.
 
-My favorite projects that I've made are [**Surveyer**](https://github.com/Xyphyn/Surveyer) and [**XyPVP**](https://github.com/Xyphyn/XyPVP)
+My favorite projects that I've made are [**Neptune**](https://github.com/Xyphyn/Neptune) and [**XyPVP**](https://github.com/Xyphyn/XyPVP)
 
 - [x] Learn Kotlin
 - [x] Create a discord bot in a compiled language
