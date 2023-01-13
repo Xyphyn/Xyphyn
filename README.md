@@ -14,7 +14,7 @@ Hey! I'm **Xylight**, but you can also call me **James**. I enjoy creating thing
 My favorite projects that I've made are [**Neptune**](https://github.com/Xyphyn/Neptune) and [**MultiTranslate**](https://github.com/Xyphyn/MultiTranslate)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Xyphyn&show_icons=true&theme=dark&bg_color=30,E53AFF,9900FF&text_color=ffffff&hide_border=true">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Xyphyn&show_icons=true&theme=dark&bg_color=30,E53AFF,9900FF&text_color=ffffff&hide_border=true">
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xyphyn&show_icons=true&theme=dark&bg_color=30,E53AFF,9900FF&text_color=ffffff&hide_border=true&hide=java">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Xyphyn&show_icons=true&theme=dark&bg_color=30,E53AFF,9900FF&text_color=ffffff&hide_border=true&hide=java">
 </p>
