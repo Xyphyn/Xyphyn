@@ -8,8 +8,9 @@ I'm James, a hobbyist developer. I spend most of my time doing frontend developm
 <h5>Favorite Projects</h5>
 
 - [Imagi](https://imagi.xylight.dev), a real-time social app
-- Neptune, a Discord bot
 - [My Website](https://xylight.dev)
+
+<sub>...and that's about it</sub>
 
 <h5>Favorite Technologies</h5>
 
