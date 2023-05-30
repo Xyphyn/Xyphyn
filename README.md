@@ -26,8 +26,8 @@ I'm James, a hobbyist developer. I spend most of my time doing frontend developm
 - SvelteKit
 - Vercel <sub>(more like a PaaS)</sub>
 
-<h6>Other</h6>
+<h6>Languages</h6>
 
-- Linux
-- Git
-- Caddy
+- TypeScript
+- Kotlin
+- Go
