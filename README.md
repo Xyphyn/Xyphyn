@@ -9,6 +9,7 @@ I'm James, a hobbyist developer. I spend most of my time doing frontend developm
 
 - [Imagi](https://imagi.xylight.dev), a real-time social app
 - [My Website](https://xylight.dev)
+- [Xylo](https://xylo.xylight.dev)
 
 <sub>...and that's about it</sub>
 
