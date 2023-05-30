@@ -18,7 +18,7 @@ I'm James, a hobbyist developer. I spend most of my time doing frontend developm
 
 - Svelte
 - TailwindCSS
-- SASS
+- Vue
 
 <h6>Backend</h6>
 
