@@ -1,7 +1,7 @@
 
 <h3>Hi! 👋</h3>
 
-I'm James, a hobbyist developer. I spend most of my time doing frontend development, designing UIs.
+I'm Xylight, a hobbyist developer. I spend most of my time doing frontend development, designing UIs.
 
 ---
 
