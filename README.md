@@ -7,6 +7,7 @@ I'm Xylight, a hobbyist developer. I spend most of my time doing frontend develo
 
 <h5>Favorite Projects</h5>
 
+- [Photon](https://phtn.app)
 - [Imagi](https://imagi.xylight.dev), a real-time social app
 - [My Website](https://xylight.dev)
 - [Xylo](https://xylo.xylight.dev)
