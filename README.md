@@ -3,7 +3,7 @@
 
 I'm Xylight, a hobbyist developer. I spend most of my time doing frontend development, designing UIs.
 
-<a href="https://www.buymeacoffee.com/xylight"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=xylight&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
+
 
 ---
 
@@ -35,3 +35,10 @@ I'm Xylight, a hobbyist developer. I spend most of my time doing frontend develo
 - TypeScript
 - Kotlin
 - Go
+
+<h3>Contact</h3>
+- Email: james@xylight.dev
+- Matrix: @xylightsucks:matrix.org
+- Lemmy: @Xylight@lemmy.xylight.dev
+
+<a href="https://www.buymeacoffee.com/xylight"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=xylight&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
