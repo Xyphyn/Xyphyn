@@ -1,7 +1,7 @@
 
 ### hi
 
-Im a 14 year old "developer" and I enjoy making web designs and creating dumb things 
+Im a "developer" and I enjoy making web designs and creating dumb things 
 
 #### Projects</h4>
 
