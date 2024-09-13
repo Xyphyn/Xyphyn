@@ -21,24 +21,6 @@ Im a "developer" and I enjoy making web designs and creating dumb things
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=fff)
 ![Fedora](https://img.shields.io/badge/Fedora-0085ff?style=for-the-badge&logo=fedora&logoColor=fff)
 
-
-#### Specs
-
-- **CPU**: Ryzen 5600X
-- **GPU**: RX 6600 XT
-- **Memory**: 32GB DDR4 3600MHz CL16
-- **Disks**
-  - 1TB Samsung Evo 870
-  - 500GB Saumsung Evo 860
-- **OS**: Fedora 40
-
-
-- **Monitor**: MSI Optix G271 (144Hz)
-- **Mouse**: Logitech G Pro Wireless
-- **Keyboard**: Neo65, KTT strawberries, plateless
-
-- **Phone**: Pixel 8
-
 #### Links
 
 - **Matrix**: @xylightsucks:matrix.org
