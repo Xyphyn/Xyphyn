@@ -1,17 +1,13 @@
+I'm a developer and web designer, hoping to make UI more accessible.
 
-### hi
-
-Im a "developer" and I enjoy making web designs and creating dumb things 
-
-#### Projects</h4>
+### Projects
 
 - [**Photon**](https://phtn.app)
-  - Probably my best design, and biggest project. A better way to use Lemmy with a better UI and more features.
-- [**Imagi**](https://imagi.xylight.dev), a real time image sharing app
+  - A beautiful web client for the fediverse
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Xyphyn&layout=compact&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&bg_color=292C41FF&text_color=c3c6ce&icon_color=4e64f7)
 
-#### stuff i like to use
+#### Things I like to use
 
 ![Svelte](https://img.shields.io/badge/Svelte-E55201?style=for-the-badge&logo=svelte&logoColor=fff)
 ![Vue](https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vue.js&logoColor=fff)
